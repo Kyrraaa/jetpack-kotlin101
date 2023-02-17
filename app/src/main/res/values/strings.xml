@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin101</string>
+    <string name="title_activity_country_information">CountryInformationActivity</string>
+</resources>
