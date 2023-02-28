@@ -1,6 +1,6 @@
 # **Kotlin101**
 
-Nous avons dévelopé ce projet dans le cadre de nos études, dans le but de découvrir la programmtion orientée objets (POO).
+Nous avons développé ce projet dans le cadre de nos études, dans le but de découvrir la programmation orientée objets (POO).
 
 # Consignes
 
