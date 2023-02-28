@@ -1,8 +1,6 @@
 # **Kotlin101**
 
-I coded this project as part of my training, to discover object-oriented programming (OOP).
-
-Nous avons d
+Nous avons dévelopé ce projet dans le cadre de nos études, dans le but de découvrir la programmtion orientée objets (POO).
 
 # Consignes
 
