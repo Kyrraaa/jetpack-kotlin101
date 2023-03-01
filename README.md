@@ -1,6 +1,6 @@
 # **Kotlin101**
 
-Nous avons développé ce projet dans le cadre de nos études, dans le but de découvrir la programmation orientée objets (POO).
+Nous avons développé ce projet dans le cadre de nos études, dans le but de découvrir le développement d'une application android.
 
 # Consignes
 
